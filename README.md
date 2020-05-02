@@ -8,6 +8,7 @@ Please feel free to give any feedback on current organisation as a new issue to 
 
 
 ## :watch: Time and Location 
+**Details still to be decided** 
 #### Monday, Tuesday and Thursday xx-xxpm in [physical_location]
 #### Remote participation:
 https://zoom.us/j/xxxxxxxxxxxxxxxx
