@@ -9,7 +9,7 @@ Please feel free to give any feedback on current organisation as a new issue to 
 
 ## :watch: Time and Location 
 **Details still to be decided** 
-#### Monday, Tuesday and Thursday xx-xxpm in [physical_location]
+#### Monday, Tuesday and Thursday xx-xxpm
 #### Remote participation:
 https://zoom.us/j/xxxxxxxxxxxxxxxx
 
@@ -76,29 +76,3 @@ This is a way to get a pretty broad coverage of the conference proceedings, even
 <kbd>
 <img src="https://i.imgur.com/4ZPzzd5.png" width=200 style="border-style: solid;border-width: 1px;">
 </kbd>
-
-
-**7- Collect papers on a shared Zotero group**
-
-<kbd>
-<img src="https://www.zotero.org/support/lib/exe/fetch.php?tok=2735f1&media=https%3A%2F%2Fwww.zotero.org%2Fstatic%2Fimages%2Fpromote%2Fzotero-logo-128x31.png" height=20> 
-</kbd>
-
-All papers and comments get collected on zotero send an email to the Reading group admin If you would like to be invited to this zotero group
-
-To extract comments from github issue to paste in a zotero group as comments paste this JS code to browser's console
-```
-var a = document.getElementsByClassName("d-block comment-body markdown-body  js-comment-body")
-var alltext = "" 
-for (i = 0; i < a.length; ++i) { 
-	ps = a[i].getElementsByTagName("p")
-	
-	for (j=0; j<ps.length; j++){
-		alltext += ps[j].textContent
-    }
-	alltext += "\n-----------\n"
-}
-
-console.log(alltext)
-```
-
