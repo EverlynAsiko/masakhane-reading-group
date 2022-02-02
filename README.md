@@ -1,33 +1,31 @@
 # Masakhane Reading Group :books::books:
 
-This repo is based on [Awesome reading group](https://github.com/hadyelsahar/awesome-reading-group). The idea is to reading  organize  short 30 minute meetings multiple times a week. No one is expected prepare slides and/or read the paper in depth. This makes it agile and highly sustainable. 
-
-<blockquote> Having daily frequent groups is very stimulating, and creates very different rhythm compared to weekly-biweekly reading group; it allows to cover much bigger volume of information, even if it is not covered in-depth.  If certain  papers are very relevant to your domain of interest you may go more in-depth by yourself or in smaller groups. </blockquote>
+This repo is adapted from [Awesome reading group](https://github.com/hadyelsahar/awesome-reading-group). The idea is to read 2-3 papers and organize 1-hour meetings once in two weeks. No one is expected prepare slides and/or read the papers in depth. 
 
 Please feel free to give any feedback on current organisation as a new issue to this repository - it can be adapted to our needs.   
 
 
 ## :watch: Time and Location 
 **Details still to be decided** 
-#### Monday, Tuesday and Thursday xx-xxpm
+#### Tuesday or Wednesday xx-xxpm
 #### Remote participation:
 https://zoom.us/j/xxxxxxxxxxxxxxxx
 
 ###### The time/frequency can be adjusted based on your feedback. The objective is to share and discuss interesting papers together on a regular basis.
 
 ## TLDR;
-   - :heavy_plus_sign: :+1: [Add papers](https://github.com/masakhane-io/awesome-reading-group/issues/1) and vote on papers you would like to read/discuss
+   - :heavy_plus_sign: :+1: [Add papers](https://github.com/masakhane-io/masakhane-reading-group/issues/12) and vote on papers you would like to read/discuss
    - :full_moon_with_face: :new_moon_with_face: Everybody is free to attend or not attend; 
    - :memo: Give the paper a read before as much in details, focus on specific parts  
-   - :loudspeaker: At the beginning of the sessions a volunteer does a brief introduction of the paper
+   - :loudspeaker: At the beginning of the sessions a volunteer, who will be volunteer at the previous meeting, does a brief introduction of the paper
    - :speech_balloon: Attendance (usually groups 5-8 participants) can discuss, share impressions, ask questions 
-   - :hourglass_flowing_sand: Try to keep it 30 minutes.   
+   - :hourglass_flowing_sand: Try to keep it 30 minutes per paper.   
    - :pencil2: take 5 mins to write your reflections on the discussion or add extra thoughts. 
 
-## Detailed Intstructions
+## Detailed Instructions
 
 **1 - ADD and VOTE on papers as comments in the** [voting 
-issue](https://github.com/masakhane-io/awesome-reading-group/issues/1)
+issue](https://github.com/masakhane-io/masakhane-reading-group/issues/12)
 You may only put the title and the link to the paper, or add any comments to help people to understand why it is worth reading.
 
 <kbd>
@@ -49,10 +47,9 @@ The corresponding comment gets deleted from the voting issue and a new issue is 
 - The purpose of the multi-view discussions is to save time reading all papers in details as different participants will have focused on different parts of the paper. 
 
 **4- Attend the reading group** 
-- **several times a week*
-- The main value of such reading groups is in the discussion; even if you didn't read the paper in depth - everybody pays attention on different things, which are shared during the discussion. Thus, it allows you to cover each paper more than if you would have read it by yourself.  
+- The main value of such reading groups is in the discussion; even if *you didn't read the paper* in depth - everybody pays attention on different things, which are shared during the discussion. Thus, it allows you to cover each paper more than if you would have read it by yourself.  
 
-**4'- Sprints** 
+**4'- Sprints, in future, once we have gotten a rhythm** 
 
  -Sometimes the reading group can go beyond a single paper: eg. conference proceedings, several papers around the same subject, etc.  The idea of the sprint is to grasp the as much papers as possible in a short time. We block 2h slot for this. The sprint happens in two phases:
 
